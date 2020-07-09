@@ -1,0 +1,43 @@
+ body{
+ 	font-size: 18px;
+ 	color:white;
+ 	background-color:#343a40;
+ 	font-family: sans-serif;
+ }
+
+ #header{
+ 	text-align: center;
+ 	padding-top: 15px;
+ 	margin-bottom: 25px;
+ 	color: #E74C3C;	
+
+ }
+ th,td{
+ border:1px,solid,black;
+
+ }
+
+ table{
+ 	table-layout: auto;
+ 	width: 100%;
+ }
+ button:hover{
+ 	background-color: #495A8E;
+ }
+ footer{
+ 	color: #E74C3C;
+ }
+
+
+ img{
+ 	float: right;
+ 	padding-bottom: 0;
+ 	padding-top: 50;
+ }
+
+ navbar-custom,navbar-bg{
+ 	background-color:red;
+ }
+ h2{
+ 	color:#E74C3C;
+ }
